@@ -1,0 +1,10 @@
+{
+    "menu":"#navbar-brand-centered > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a",
+    "link":"#navbar-brand-centered > ul.nav.navbar-nav.navbar-right > li.dropdown.open > ul > li:nth-child(1) > a",
+    "buttonSuccess":"#autoclosable-btn-success",
+    "successMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-autocloseable-success",
+    "normalButton":"#normal-btn-success",
+    "normalMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-normal-success",
+    "close":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-normal-success > button"
+
+}

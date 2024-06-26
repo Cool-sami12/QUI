@@ -1,0 +1,13 @@
+{
+    "menu":"#navbar-brand-centered > ul:nth-child(1) > li:nth-child(1) > a" ,
+    "simpleform":"#navbar-brand-centered > ul:nth-child(1) > li.dropdown.open > ul > li:nth-child(1) > a",
+    "h3text":"#easycont > div > div.col-md-6.text-left > h3",
+    "messagebox":"input[placeholder='Please enter your Message']",   
+    "messagebutton":"#get-input > button",
+    "displaybox":"#display",
+    "input1":"#value1",
+    "input2":"#value2",
+    "submit":"#gettotal > button",
+    "display2":"#displayvalue"
+
+}

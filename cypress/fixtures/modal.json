@@ -1,0 +1,30 @@
+{
+    "menu":"#navbar-brand-centered > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a",
+    "modal":"#navbar-brand-centered > ul.nav.navbar-nav.navbar-right > li.dropdown.open > ul > li:nth-child(2) > a",
+    "singleButton":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div:nth-child(2) > div > div > div.panel-body > a",
+    "title":"#myModal0 > div > div > div.modal-header > h4",
+    "content":"#myModal0 > div > div > div.modal-body",
+    "closebutton":"#myModal0 > div > div > div.modal-footer > a:nth-child(1)",
+    "savebutton":"#myModal0 > div > div > div.modal-footer > a.btn.btn-primary",
+
+    "mutiplebutton":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div:nth-child(3) > div > div > div.panel-body > a",
+    "firstTitle":"#myModal > div > div > div.modal-header > h4",
+    "firstBody":"#myModal > div > div > div.modal-body",
+    "closebutton1":"#myModal > div > div > div.modal-footer > a:nth-child(1)",
+    "savebutton1":"#myModal > div > div > div.modal-footer > a.btn.btn-primary",
+    "launchButton":"#myModal > div > div > div.modal-body > a",
+    "secondTitle":"#myModal2 > div > div > div.modal-header > h4",
+    "secondBody":"#myModal2 > div > div > div.modal-body",
+    "closeButton2":"#myModal2 > div > div > div.modal-footer > a:nth-child(1)",
+    "saveButton2":"#myModal2 > div > div > div.modal-footer > a.btn.btn-primary"
+
+
+
+    
+
+
+
+
+
+
+}   
