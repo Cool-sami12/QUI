@@ -16,6 +16,9 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 import './customCommands/standard.actions.cy'
+import './customCommands/dropdown.actions.cy'
+import './customCommands/alert.actions.cy'
+import './customCommands/modal.actions.cy'
 //import 'allure-cypress/commands'
 
 

@@ -5,6 +5,21 @@
     "successMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-autocloseable-success",
     "normalButton":"#normal-btn-success",
     "normalMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-normal-success",
-    "close":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-normal-success > button"
+    "close":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-success.alert-normal-success > button",
+    "warningButton":"#autoclosable-btn-warning",
+    "warningMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-warning.alert-autocloseable-warning",
+    "NormalWarning":"#normal-btn-warning",
+    "normalWarningMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-warning.alert-normal-warning",
+    "closew":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-warning.alert-normal-warning > button",
+    "dangerButton":"#autoclosable-btn-danger",
+    "dangerMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-danger.alert-autocloseable-danger",
+    "NormalDanger":"#normal-btn-danger",
+    "NormalDangerMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-danger.alert-normal-danger",
+    "closeD,":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-danger.alert-normal-danger > button",
+    "infoButton":"#autoclosable-btn-info",
+    "InfoMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-info.alert-autocloseable-info",
+    "NormalInfo":"#normal-btn-info",
+    "NormalInfoMsg":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-info.alert-normal-info",
+    "closeI":"body > div.container-fluid.text-center > div > div.col-md-6.text-left > div > div.col-md-6 > div.alert.alert-info.alert-normal-info > button"
 
 }
